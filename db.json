@@ -1,0 +1,12 @@
+{
+  "books": [
+    {
+      "title": "The Hobbit Man",
+      "id": 1
+    },
+    {
+      "title": "The Great Gatsby",
+      "id": 3
+    }
+  ]
+}
